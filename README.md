@@ -36,4 +36,5 @@
 | Toyota                | TM     | $304.42 B  | 🇯🇵 Japan   |
 
 # Graph output
-![image](https://github.com/illinois-stat440/sp24_stat440_yipingw2_jjeong32/assets/112719052/866fc10f-f5b9-49d7-8b6b-44bb01ea28e5)
+<img width="1432" alt="Screen Shot 2024-07-12 at 10 32 51 AM" src="https://github.com/user-attachments/assets/3ea65456-9a98-4911-9148-dba1aa975051">
+
